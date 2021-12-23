@@ -1,0 +1,18 @@
+﻿using PeliculasAPI.Entidades;
+
+namespace PeliculasAPI.DTOs
+{
+    public class PeliculasGeneros
+    {
+
+        public int PeliculaId { get; set; }
+        public int GeneroId { get; set; }
+
+        public Pelicula Pelicula { get; set; }
+
+        public Genero Genero { get; set; }
+
+
+
+    }
+}

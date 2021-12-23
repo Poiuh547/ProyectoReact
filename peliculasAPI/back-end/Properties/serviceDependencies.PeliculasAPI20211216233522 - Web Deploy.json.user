@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-12-17T05:44:01.9788168Z"
+    },
+    "identityapp1": {
+      "restored": true,
+      "restoreTime": "2021-12-17T05:51:03.7848412Z"
+    },
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2021-12-17T05:44:18.1501223Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "f7ede99e-6ab5-451f-beb0-3f5af46d5f4e"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "PeliculasAPI"
+    }
+  }
+}
